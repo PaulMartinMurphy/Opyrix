@@ -1,0 +1,20 @@
+Contents of /Users/murphp/osirixplugins/Opyrix/Opyrix_Prefix.pch
+
+i386-apple-darwin12.4.0
+-x
+objective-c
+-arch
+i386
+-fmessage-length=0
+-fpascal-strings
+-O0
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+-fasm-blocks
+-fstrict-aliasing
+-mmacosx-version-min=10.5
+-g
+-I/Users/murphp/osirixplugins/Opyrix/Build/Products/Development/include
+-F/Users/murphp/osirixplugins/Opyrix/Build/Products/Development
+-F/Users/murphp/osirixplugins/Opyrix
+SDK_PRODUCT_BUILD_VERSION=12D75

@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'Opyrix' target in the 'Opyrix' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <AppKit/AppKit.h>
+#endif

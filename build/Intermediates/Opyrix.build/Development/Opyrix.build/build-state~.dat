@@ -1,0 +1,283 @@
+TOpyrix
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin/Contents/Info.plist Info.plist
+cCopyStringsFile /Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cProcessPCH /Users/murphp/osirixplugins/Opyrix/Build/Intermediates/PrecompiledHeaders/Opyrix_Prefix-bukuriftcjifclahztjwuppmderi/Opyrix_Prefix.pch.pth Opyrix_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/murphp/osirixplugins/Opyrix/Build/Intermediates/PrecompiledHeaders/Opyrix_Prefix-dzoswfjzoayerfayycolewosmnwx/Opyrix_Prefix.pch.pth Opyrix_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/i386/OpyrixFilter.o /Users/murphp/osirixplugins/Opyrix/OpyrixFilter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/x86_64/OpyrixFilter.o /Users/murphp/osirixplugins/Opyrix/OpyrixFilter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/i386/Opyrix normal i386
+cLd /Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/x86_64/Opyrix normal x86_64
+cCreateUniversalBinary /Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin/Contents/MacOS/Opyrix normal "i386 x86_64"
+cTouch /Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c000000005130312F00000000000000AA
+t1362112815
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+c0000000051C62C08000000000000197F
+t1371941896
+s6527
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c0000000051C62C0900000000000015F7
+t1371941897
+s5623
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c00000000500B62FD0000000000006730
+t1342923517
+s26416
+
+N/Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/i386/Opyrix
+t2
+s0
+
+N/Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/i386/Opyrix.LinkFileList
+c0000000051CCBAE40000000000000080
+t1372371684
+s128
+
+N/Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/i386/OpyrixFilter.o
+t2
+s0
+
+N/Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/x86_64/Opyrix
+t2
+s0
+
+N/Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/x86_64/Opyrix.LinkFileList
+c0000000051CCBAE40000000000000082
+t1372371684
+s130
+
+N/Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/x86_64/OpyrixFilter.o
+t2
+s0
+
+N/Users/murphp/osirixplugins/Opyrix/Build/Intermediates/PrecompiledHeaders/Opyrix_Prefix-bukuriftcjifclahztjwuppmderi/Opyrix_Prefix.pch.pth
+t2
+s0
+
+N/Users/murphp/osirixplugins/Opyrix/Build/Intermediates/PrecompiledHeaders/Opyrix_Prefix-dzoswfjzoayerfayycolewosmnwx/Opyrix_Prefix.pch.pth
+t2
+s0
+
+N/Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin
+t2
+s0
+
+N/Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin/Contents/Info.plist
+t2
+s0
+
+N/Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin/Contents/MacOS/Opyrix
+t2
+s0
+
+N/Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin/Contents/Resources/English.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/murphp/osirixplugins/Opyrix/English.lproj/InfoPlist.strings
+c0000000051CCB9E30000000000000228
+t1372371427
+s552
+
+N/Users/murphp/osirixplugins/Opyrix/OpyrixFilter.m
+c0000000051CCB9E300000000000001B9
+t1372371427
+s441
+
+N/Users/murphp/osirixplugins/Opyrix/Opyrix_Prefix.pch
+c0000000051CCB9E300000000000000B8
+t1372371427
+s184
+i<Foundation/Foundation.h>
+i<AppKit/AppKit.h>
+
+N/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/OsiriXAPI
+c0000000051CCB9E3000000000000B23C
+t1372371427
+s45628
+
+NInfo.plist
+c0000000051CCBAB500000000000002F7
+t1372371637
+s759
+
+CBuild AST from /Users/murphp/osirixplugins/Opyrix/OpyrixFilter.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies34658364f27cb741^bdfcae64f27cb741^---0#1#0#--18"Check dependencies36"A3EB12BF-4F71-4800-B83A-42735011C197-
+
+CCompileC Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/i386/OpyrixFilter.o /Users/murphp/osirixplugins/Opyrix/OpyrixFilter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s394064485.928458
+e394064486.327761
+r1
+xCompileC
+xBuild/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/i386/OpyrixFilter.o
+x/Users/murphp/osirixplugins/Opyrix/OpyrixFilter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/murphp/osirixplugins/Opyrix/OpyrixFilter.m:8:
+oIn file included from /Users/murphp/osirixplugins/Opyrix/OpyrixFilter.h:9:
+oIn file included from /Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/PluginFilter.h:18:
+o/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h:478:34: warning: 'x' used as the name of the previous parameter rather than as part of the selector [-Wmissing-selector-name]
+o- (void) DCMPixShutterRect:(long)x:(long)y:(long)w:(long)h;
+o                                 ^
+o/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h:478:34: note: introduce a parameter name to make 'x' part of the selector
+o/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h:478:35: note: or insert whitespace before ':' to use 'x' as parameter name and have an empty entry in the selector
+o- (void) DCMPixShutterRect:(long)x:(long)y:(long)w:(long)h;
+o                                  ^
+o/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h:478:42: warning: 'y' used as the name of the previous parameter rather than as part of the selector [-Wmissing-selector-name]
+o- (void) DCMPixShutterRect:(long)x:(long)y:(long)w:(long)h;
+o                                         ^
+o/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h:478:42: note: introduce a parameter name to make 'y' part of the selector
+o/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h:478:43: note: or insert whitespace before ':' to use 'y' as parameter name and have an empty entry in the selector
+o- (void) DCMPixShutterRect:(long)x:(long)y:(long)w:(long)h;
+o                                          ^
+o/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h:478:50: warning: 'w' used as the name of the previous parameter rather than as part of the selector [-Wmissing-selector-name]
+o- (void) DCMPixShutterRect:(long)x:(long)y:(long)w:(long)h;
+o                                                 ^
+o/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h:478:50: note: introduce a parameter name to make 'w' part of the selector
+o/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h:478:51: note: or insert whitespace before ':' to use 'w' as parameter name and have an empty entry in the selector
+o- (void) DCMPixShutterRect:(long)x:(long)y:(long)w:(long)h;
+o                                                  ^
+o3 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Compile /Users/murphp/osirixplugins/Opyrix/OpyrixFilter.m50c5ed65f27cb741^53e95366f27cb741^-2490"In file included from /Users/murphp/osirixplugins/Opyrix/OpyrixFilter.m:8:In file included from /Users/murphp/osirixplugins/Opyrix/OpyrixFilter.h:9:In file included from /Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/PluginFilter.h:18:/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h:478:34: warning: 'x' used as the name of the previous parameter rather than as part of the selector [-Wmissing-selector-name]- (void) DCMPixShutterRect:(long)x:(long)y:(long)w:(long)h;                                 ^/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h:478:34: note: introduce a parameter name to make 'x' part of the selector/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h:478:35: note: or insert whitespace before ':' to use 'x' as parameter name and have an empty entry in the selector- (void) DCMPixShutterRect:(long)x:(long)y:(long)w:(long)h;                                  ^/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h:478:42: warning: 'y' used as the name of the previous parameter rather than as part of the selector [-Wmissing-selector-name]- (void) DCMPixShutterRect:(long)x:(long)y:(long)w:(long)h;                                         ^/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h:478:42: note: introduce a parameter name to make 'y' part of the selector/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h:478:43: note: or insert whitespace before ':' to use 'y' as parameter name and have an empty entry in the selector- (void) DCMPixShutterRect:(long)x:(long)y:(long)w:(long)h;                                          ^/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h:478:50: warning: 'w' used as the name of the previous parameter rather than as part of the selector [-Wmissing-selector-name]- (void) DCMPixShutterRect:(long)x:(long)y:(long)w:(long)h;                                                 ^/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h:478:50: note: introduce a parameter name to make 'w' part of the selector/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h:478:51: note: or insert whitespace before ':' to use 'w' as parameter name and have an empty entry in the selector- (void) DCMPixShutterRect:(long)x:(long)y:(long)w:(long)h;                                                  ^3 warnings generated.3(36%IDEClangDiagnosticActivityLogMessage2@82"'x' used as the name of the previous parameter rather than as part of the selector-394064486#18446744073709551615#0#5(2@74"In file included from /Users/murphp/osirixplugins/Opyrix/OpyrixFilter.m:8:-394064486#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@65"file://localhost/Users/murphp/osirixplugins/Opyrix/OpyrixFilter.m0000000000000000^7#8#7#8#98#0#21"Clang LLVM 1.0 Notice--2@74"In file included from /Users/murphp/osirixplugins/Opyrix/OpyrixFilter.h:9:-394064486#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@65"file://localhost/Users/murphp/osirixplugins/Opyrix/OpyrixFilter.h0000000000000000^8#8#8#8#132#0#21"Clang LLVM 1.0 Notice--2@103"In file included from /Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/PluginFilter.h:18:-394064486#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@93"file://localhost/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/PluginFilter.h0000000000000000^17#8#17#8#513#0#21"Clang LLVM 1.0 Notice--2@59"Introduce a parameter name to make 'x' part of the selector-394064486#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@87"file://localhost/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h0000000000000000^477#33#477#33#16537#0#11"Parse Issue--2@100"Or insert whitespace before ':' to use 'x' as parameter name and have an empty entry in the selector-394064486#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@87"file://localhost/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h0000000000000000^477#34#477#34#16538#0#11"Parse Issue--1#27"com.apple.dt.IDE.diagnostic3@87"file://localhost/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h0000000000000000^477#33#477#33#16537#0#11"Parse Issue--2@82"'y' used as the name of the previous parameter rather than as part of the selector-394064486#18446744073709551615#0#5(2@74"In file included from /Users/murphp/osirixplugins/Opyrix/OpyrixFilter.m:8:-394064486#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@65"file://localhost/Users/murphp/osirixplugins/Opyrix/OpyrixFilter.m0000000000000000^7#8#7#8#98#0#21"Clang LLVM 1.0 Notice--2@74"In file included from /Users/murphp/osirixplugins/Opyrix/OpyrixFilter.h:9:-394064486#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@65"file://localhost/Users/murphp/osirixplugins/Opyrix/OpyrixFilter.h0000000000000000^8#8#8#8#132#0#21"Clang LLVM 1.0 Notice--2@103"In file included from /Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/PluginFilter.h:18:-394064486#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@93"file://localhost/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/PluginFilter.h0000000000000000^17#8#17#8#513#0#21"Clang LLVM 1.0 Notice--2@59"Introduce a parameter name to make 'y' part of the selector-394064486#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@87"file://localhost/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h0000000000000000^477#41#477#41#16545#0#11"Parse Issue--2@100"Or insert whitespace before ':' to use 'y' as parameter name and have an empty entry in the selector-394064486#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@87"file://localhost/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h0000000000000000^477#42#477#42#16546#0#11"Parse Issue--1#27"com.apple.dt.IDE.diagnostic3@87"file://localhost/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h0000000000000000^477#41#477#41#16545#0#11"Parse Issue--2@82"'w' used as the name of the previous parameter rather than as part of the selector-394064486#18446744073709551615#0#5(2@74"In file included from /Users/murphp/osirixplugins/Opyrix/OpyrixFilter.m:8:-394064486#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@65"file://localhost/Users/murphp/osirixplugins/Opyrix/OpyrixFilter.m0000000000000000^7#8#7#8#98#0#21"Clang LLVM 1.0 Notice--2@74"In file included from /Users/murphp/osirixplugins/Opyrix/OpyrixFilter.h:9:-394064486#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@65"file://localhost/Users/murphp/osirixplugins/Opyrix/OpyrixFilter.h0000000000000000^8#8#8#8#132#0#21"Clang LLVM 1.0 Notice--2@103"In file included from /Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/PluginFilter.h:18:-394064486#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@93"file://localhost/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/PluginFilter.h0000000000000000^17#8#17#8#513#0#21"Clang LLVM 1.0 Notice--2@59"Introduce a parameter name to make 'w' part of the selector-394064486#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@87"file://localhost/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h0000000000000000^477#49#477#49#16553#0#11"Parse Issue--2@100"Or insert whitespace before ':' to use 'w' as parameter name and have an empty entry in the selector-394064486#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@87"file://localhost/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h0000000000000000^477#50#477#50#16554#0#11"Parse Issue--1#27"com.apple.dt.IDE.diagnostic3@87"file://localhost/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h0000000000000000^477#49#477#49#16553#0#11"Parse Issue--0#0#0#-19%DVTDocumentLocation4@65"file://localhost/Users/murphp/osirixplugins/Opyrix/OpyrixFilter.m0000000000000000^2460"CompileC Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/i386/OpyrixFilter.o OpyrixFilter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/murphp/osirixplugins/Opyrix    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.5 -g -Wno-sign-conversion -I/Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/Opyrix.hmap -I/Users/murphp/osirixplugins/Opyrix/Build/Products/Development/include -I/Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/DerivedSources/i386 -I/Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/murphp/osirixplugins/Opyrix/Build/Products/Development -F/Users/murphp/osirixplugins/Opyrix -include /Users/murphp/osirixplugins/Opyrix/Build/Intermediates/PrecompiledHeaders/Opyrix_Prefix-dzoswfjzoayerfayycolewosmnwx/Opyrix_Prefix.pch -MMD -MT dependencies -MF /Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/i386/OpyrixFilter.d --serialize-diagnostics /Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/i386/OpyrixFilter.dia -c /Users/murphp/osirixplugins/Opyrix/OpyrixFilter.m -o /Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/i386/OpyrixFilter.o36"E231A586-EB65-43CC-86D6-01B5F719B88A-
+
+CCompileC Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/x86_64/OpyrixFilter.o /Users/murphp/osirixplugins/Opyrix/OpyrixFilter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s394064485.955784
+e394064486.327731
+r1
+xCompileC
+xBuild/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/x86_64/OpyrixFilter.o
+x/Users/murphp/osirixplugins/Opyrix/OpyrixFilter.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/murphp/osirixplugins/Opyrix/OpyrixFilter.m:8:
+oIn file included from /Users/murphp/osirixplugins/Opyrix/OpyrixFilter.h:9:
+oIn file included from /Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/PluginFilter.h:18:
+o/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h:478:34: warning: 'x' used as the name of the previous parameter rather than as part of the selector [-Wmissing-selector-name]
+o- (void) DCMPixShutterRect:(long)x:(long)y:(long)w:(long)h;
+o                                 ^
+o/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h:478:34: note: introduce a parameter name to make 'x' part of the selector
+o/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h:478:35: note: or insert whitespace before ':' to use 'x' as parameter name and have an empty entry in the selector
+o- (void) DCMPixShutterRect:(long)x:(long)y:(long)w:(long)h;
+o                                  ^
+o/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h:478:42: warning: 'y' used as the name of the previous parameter rather than as part of the selector [-Wmissing-selector-name]
+o- (void) DCMPixShutterRect:(long)x:(long)y:(long)w:(long)h;
+o                                         ^
+o/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h:478:42: note: introduce a parameter name to make 'y' part of the selector
+o/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h:478:43: note: or insert whitespace before ':' to use 'y' as parameter name and have an empty entry in the selector
+o- (void) DCMPixShutterRect:(long)x:(long)y:(long)w:(long)h;
+o                                          ^
+o/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h:478:50: warning: 'w' used as the name of the previous parameter rather than as part of the selector [-Wmissing-selector-name]
+o- (void) DCMPixShutterRect:(long)x:(long)y:(long)w:(long)h;
+o                                                 ^
+o/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h:478:50: note: introduce a parameter name to make 'w' part of the selector
+o/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h:478:51: note: or insert whitespace before ':' to use 'w' as parameter name and have an empty entry in the selector
+o- (void) DCMPixShutterRect:(long)x:(long)y:(long)w:(long)h;
+o                                                  ^
+o3 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Compile /Users/murphp/osirixplugins/Opyrix/OpyrixFilter.m9ad0f465f27cb741^b8e55366f27cb741^-2490"In file included from /Users/murphp/osirixplugins/Opyrix/OpyrixFilter.m:8:In file included from /Users/murphp/osirixplugins/Opyrix/OpyrixFilter.h:9:In file included from /Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/PluginFilter.h:18:/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h:478:34: warning: 'x' used as the name of the previous parameter rather than as part of the selector [-Wmissing-selector-name]- (void) DCMPixShutterRect:(long)x:(long)y:(long)w:(long)h;                                 ^/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h:478:34: note: introduce a parameter name to make 'x' part of the selector/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h:478:35: note: or insert whitespace before ':' to use 'x' as parameter name and have an empty entry in the selector- (void) DCMPixShutterRect:(long)x:(long)y:(long)w:(long)h;                                  ^/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h:478:42: warning: 'y' used as the name of the previous parameter rather than as part of the selector [-Wmissing-selector-name]- (void) DCMPixShutterRect:(long)x:(long)y:(long)w:(long)h;                                         ^/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h:478:42: note: introduce a parameter name to make 'y' part of the selector/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h:478:43: note: or insert whitespace before ':' to use 'y' as parameter name and have an empty entry in the selector- (void) DCMPixShutterRect:(long)x:(long)y:(long)w:(long)h;                                          ^/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h:478:50: warning: 'w' used as the name of the previous parameter rather than as part of the selector [-Wmissing-selector-name]- (void) DCMPixShutterRect:(long)x:(long)y:(long)w:(long)h;                                                 ^/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h:478:50: note: introduce a parameter name to make 'w' part of the selector/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h:478:51: note: or insert whitespace before ':' to use 'w' as parameter name and have an empty entry in the selector- (void) DCMPixShutterRect:(long)x:(long)y:(long)w:(long)h;                                                  ^3 warnings generated.3(36%IDEClangDiagnosticActivityLogMessage2@82"'x' used as the name of the previous parameter rather than as part of the selector-394064486#18446744073709551615#0#5(2@74"In file included from /Users/murphp/osirixplugins/Opyrix/OpyrixFilter.m:8:-394064486#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@65"file://localhost/Users/murphp/osirixplugins/Opyrix/OpyrixFilter.m0000000000000000^7#8#7#8#98#0#21"Clang LLVM 1.0 Notice--2@74"In file included from /Users/murphp/osirixplugins/Opyrix/OpyrixFilter.h:9:-394064486#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@65"file://localhost/Users/murphp/osirixplugins/Opyrix/OpyrixFilter.h0000000000000000^8#8#8#8#132#0#21"Clang LLVM 1.0 Notice--2@103"In file included from /Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/PluginFilter.h:18:-394064486#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@93"file://localhost/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/PluginFilter.h0000000000000000^17#8#17#8#513#0#21"Clang LLVM 1.0 Notice--2@59"Introduce a parameter name to make 'x' part of the selector-394064486#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@87"file://localhost/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h0000000000000000^477#33#477#33#16537#0#11"Parse Issue--2@100"Or insert whitespace before ':' to use 'x' as parameter name and have an empty entry in the selector-394064486#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@87"file://localhost/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h0000000000000000^477#34#477#34#16538#0#11"Parse Issue--1#27"com.apple.dt.IDE.diagnostic3@87"file://localhost/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h0000000000000000^477#33#477#33#16537#0#11"Parse Issue--2@82"'y' used as the name of the previous parameter rather than as part of the selector-394064486#18446744073709551615#0#5(2@74"In file included from /Users/murphp/osirixplugins/Opyrix/OpyrixFilter.m:8:-394064486#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@65"file://localhost/Users/murphp/osirixplugins/Opyrix/OpyrixFilter.m0000000000000000^7#8#7#8#98#0#21"Clang LLVM 1.0 Notice--2@74"In file included from /Users/murphp/osirixplugins/Opyrix/OpyrixFilter.h:9:-394064486#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@65"file://localhost/Users/murphp/osirixplugins/Opyrix/OpyrixFilter.h0000000000000000^8#8#8#8#132#0#21"Clang LLVM 1.0 Notice--2@103"In file included from /Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/PluginFilter.h:18:-394064486#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@93"file://localhost/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/PluginFilter.h0000000000000000^17#8#17#8#513#0#21"Clang LLVM 1.0 Notice--2@59"Introduce a parameter name to make 'y' part of the selector-394064486#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@87"file://localhost/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h0000000000000000^477#41#477#41#16545#0#11"Parse Issue--2@100"Or insert whitespace before ':' to use 'y' as parameter name and have an empty entry in the selector-394064486#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@87"file://localhost/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h0000000000000000^477#42#477#42#16546#0#11"Parse Issue--1#27"com.apple.dt.IDE.diagnostic3@87"file://localhost/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h0000000000000000^477#41#477#41#16545#0#11"Parse Issue--2@82"'w' used as the name of the previous parameter rather than as part of the selector-394064486#18446744073709551615#0#5(2@74"In file included from /Users/murphp/osirixplugins/Opyrix/OpyrixFilter.m:8:-394064486#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@65"file://localhost/Users/murphp/osirixplugins/Opyrix/OpyrixFilter.m0000000000000000^7#8#7#8#98#0#21"Clang LLVM 1.0 Notice--2@74"In file included from /Users/murphp/osirixplugins/Opyrix/OpyrixFilter.h:9:-394064486#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@65"file://localhost/Users/murphp/osirixplugins/Opyrix/OpyrixFilter.h0000000000000000^8#8#8#8#132#0#21"Clang LLVM 1.0 Notice--2@103"In file included from /Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/PluginFilter.h:18:-394064486#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@93"file://localhost/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/PluginFilter.h0000000000000000^17#8#17#8#513#0#21"Clang LLVM 1.0 Notice--2@59"Introduce a parameter name to make 'w' part of the selector-394064486#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@87"file://localhost/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h0000000000000000^477#49#477#49#16553#0#11"Parse Issue--2@100"Or insert whitespace before ':' to use 'w' as parameter name and have an empty entry in the selector-394064486#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@87"file://localhost/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h0000000000000000^477#50#477#50#16554#0#11"Parse Issue--1#27"com.apple.dt.IDE.diagnostic3@87"file://localhost/Users/murphp/osirixplugins/Opyrix/OsiriXAPI.framework/Headers/DCMPix.h0000000000000000^477#49#477#49#16553#0#11"Parse Issue--0#0#0#-19%DVTDocumentLocation4@65"file://localhost/Users/murphp/osirixplugins/Opyrix/OpyrixFilter.m0000000000000000^2474"CompileC Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/x86_64/OpyrixFilter.o OpyrixFilter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/murphp/osirixplugins/Opyrix    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.5 -g -Wno-sign-conversion -I/Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/Opyrix.hmap -I/Users/murphp/osirixplugins/Opyrix/Build/Products/Development/include -I/Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/DerivedSources/x86_64 -I/Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/murphp/osirixplugins/Opyrix/Build/Products/Development -F/Users/murphp/osirixplugins/Opyrix -include /Users/murphp/osirixplugins/Opyrix/Build/Intermediates/PrecompiledHeaders/Opyrix_Prefix-bukuriftcjifclahztjwuppmderi/Opyrix_Prefix.pch -MMD -MT dependencies -MF /Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/x86_64/OpyrixFilter.d --serialize-diagnostics /Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/x86_64/OpyrixFilter.dia -c /Users/murphp/osirixplugins/Opyrix/OpyrixFilter.m -o /Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/x86_64/OpyrixFilter.o36"348C7C20-7822-4DB7-ABD5-8921347B8E1B-
+
+CCopyStringsFile /Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s394064484.699839
+e394064484.704140
+r1
+xCopyStringsFile
+x/Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy English.lproj/InfoPlist.strings90a1b364f27cb741^d942b464f27cb741^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Users/murphp/osirixplugins/Opyrix/English.lproj/InfoPlist.strings0000000000000000^429"CopyStringsFile Build/Products/Development/Opyrix.osirixplugin/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings    cd /Users/murphp/osirixplugins/Opyrix    builtin-copyStrings --validate --inputencoding utf-16 --outputencoding UTF-16 --outdir /Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin/Contents/Resources/English.lproj -- English.lproj/InfoPlist.strings36"8DC8D29B-4DD7-4965-8F7C-E21CEF47F06E-
+
+CCreateUniversalBinary /Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin/Contents/MacOS/Opyrix normal "i386 x86_64"
+s394064486.517514
+e394064486.526527
+r1
+xCreateUniversalBinary
+x/Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin/Contents/MacOS/Opyrix
+xnormal
+xi386 x86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Create universal binary /Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin/Contents/MacOS/Opyrixc8b68466f27cb741^e2c98666f27cb741^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin/Contents/MacOS/Opyrix000000000080d041^525"CreateUniversalBinary Build/Products/Development/Opyrix.osirixplugin/Contents/MacOS/Opyrix normal "i386 x86_64"    cd /Users/murphp/osirixplugins/Opyrix    lipo -create /Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/i386/Opyrix /Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/x86_64/Opyrix -output /Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin/Contents/MacOS/Opyrix36"479905FF-183C-46B3-96E0-5FDD368C850D-
+
+CLd /Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/i386/Opyrix normal i386
+s394064486.334803
+e394064486.510681
+r1
+xLd
+x/Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/i386/Opyrix
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Link /Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/i386/Opyrixdec75566f27cb741^44bf8266f27cb741^---0#0#0#--954"Ld Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/i386/Opyrix normal i386    cd /Users/murphp/osirixplugins/Opyrix    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -bundle -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/murphp/osirixplugins/Opyrix/Build/Products/Development -F/Users/murphp/osirixplugins/Opyrix/Build/Products/Development -F/Users/murphp/osirixplugins/Opyrix -filelist /Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/i386/Opyrix.LinkFileList -mmacosx-version-min=10.5 -undefined dynamic_lookup -fobjc-link-runtime -framework Cocoa -weak_framework OsiriXAPI -o /Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/i386/Opyrix36"963B3CB5-C11D-48E9-A99F-12153B6D8DE2-
+
+CLd /Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/x86_64/Opyrix normal x86_64
+s394064486.334810
+e394064486.510674
+r1
+xLd
+x/Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/x86_64/Opyrix
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Link /Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/x86_64/Opyrix11c85566f27cb741^edbb8266f27cb741^---0#0#0#--964"Ld Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/x86_64/Opyrix normal x86_64    cd /Users/murphp/osirixplugins/Opyrix    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -bundle -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/murphp/osirixplugins/Opyrix/Build/Products/Development -F/Users/murphp/osirixplugins/Opyrix/Build/Products/Development -F/Users/murphp/osirixplugins/Opyrix -filelist /Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/x86_64/Opyrix.LinkFileList -mmacosx-version-min=10.5 -undefined dynamic_lookup -fobjc-link-runtime -framework Cocoa -weak_framework OsiriXAPI -o /Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/x86_64/Opyrix36"7FEBB3BC-C108-472B-979A-5DEAE590A42B-
+
+CProcessInfoPlistFile /Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin/Contents/Info.plist Info.plist
+s394064484.688496
+e394064484.692083
+r1
+xProcessInfoPlistFile
+x/Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin/Contents/Info.plist
+xInfo.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Process Info.plist5551b064f27cb741^ae9fb264f27cb741^---0#0#0#-19%DVTDocumentLocation2@61"file://localhost/Users/murphp/osirixplugins/Opyrix/Info.plist0000000000000000^324"ProcessInfoPlistFile Build/Products/Development/Opyrix.osirixplugin/Contents/Info.plist Info.plist    cd /Users/murphp/osirixplugins/Opyrix    builtin-infoPlistUtility Info.plist -expandbuildsettings -platform macosx -o /Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin/Contents/Info.plist36"60CFA361-2F22-4171-B1B8-A1F1BD785722-
+
+CProcessPCH /Users/murphp/Library/Developer/Xcode/DerivedData/Opyrix-aevdhkltaqghtneuxzmyeoyzkdew/Index/PrecompiledHeaders/Opyrix_Prefix-ehqdptcqvkbgmcahymwrdpafiecy_ast/Opyrix_Prefix.pch.pth Opyrix_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/murphp/Library/Developer/Xcode/DerivedData/Opyrix-aevdhkltaqghtneuxzmyeoyzkdew/Index/PrecompiledHeaders/Opyrix_Prefix-ennbajzjjnzymbglbzboyiyqpoaq_ast/Opyrix_Prefix.pch.pth Opyrix_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/murphp/osirixplugins/Opyrix/Build/Intermediates/PrecompiledHeaders/Opyrix_Prefix-bukuriftcjifclahztjwuppmderi/Opyrix_Prefix.pch.pth Opyrix_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s394064484.712120
+e394064485.945673
+r1
+xProcessPCH
+x/Users/murphp/osirixplugins/Opyrix/Build/Intermediates/PrecompiledHeaders/Opyrix_Prefix-bukuriftcjifclahztjwuppmderi/Opyrix_Prefix.pch.pth
+xOpyrix_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Precompile Opyrix_Prefix.pchc763b664f27cb741^2b17f265f27cb741^---0#0#0#-19%DVTDocumentLocation2@68"file://localhost/Users/murphp/osirixplugins/Opyrix/Opyrix_Prefix.pch0000000000000000^2377"ProcessPCH Build/Intermediates/PrecompiledHeaders/Opyrix_Prefix-bukuriftcjifclahztjwuppmderi/Opyrix_Prefix.pch.pth Opyrix_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/murphp/osirixplugins/Opyrix    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.5 -g -Wno-sign-conversion -I/Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/Opyrix.hmap -I/Users/murphp/osirixplugins/Opyrix/Build/Products/Development/include -I/Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/DerivedSources/x86_64 -I/Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/murphp/osirixplugins/Opyrix/Build/Products/Development -F/Users/murphp/osirixplugins/Opyrix --serialize-diagnostics /Users/murphp/osirixplugins/Opyrix/Build/Intermediates/PrecompiledHeaders/Opyrix_Prefix-bukuriftcjifclahztjwuppmderi/Opyrix_Prefix.pch.dia -c /Users/murphp/osirixplugins/Opyrix/Opyrix_Prefix.pch -o /Users/murphp/osirixplugins/Opyrix/Build/Intermediates/PrecompiledHeaders/Opyrix_Prefix-bukuriftcjifclahztjwuppmderi/Opyrix_Prefix.pch.pth -MMD -MT dependencies -MF /Users/murphp/osirixplugins/Opyrix/Build/Intermediates/PrecompiledHeaders/Opyrix_Prefix-bukuriftcjifclahztjwuppmderi/Opyrix_Prefix.pch.d36"0D4EF640-3B25-49C9-9549-AEBA3C39F7CB-
+
+CProcessPCH /Users/murphp/osirixplugins/Opyrix/Build/Intermediates/PrecompiledHeaders/Opyrix_Prefix-dzoswfjzoayerfayycolewosmnwx/Opyrix_Prefix.pch.pth Opyrix_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s394064484.712124
+e394064485.921894
+r1
+xProcessPCH
+x/Users/murphp/osirixplugins/Opyrix/Build/Intermediates/PrecompiledHeaders/Opyrix_Prefix-dzoswfjzoayerfayycolewosmnwx/Opyrix_Prefix.pch.pth
+xOpyrix_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Precompile Opyrix_Prefix.pch3d64b664f27cb741^7903ec65f27cb741^---0#0#0#-19%DVTDocumentLocation2@68"file://localhost/Users/murphp/osirixplugins/Opyrix/Opyrix_Prefix.pch0000000000000000^2371"ProcessPCH Build/Intermediates/PrecompiledHeaders/Opyrix_Prefix-dzoswfjzoayerfayycolewosmnwx/Opyrix_Prefix.pch.pth Opyrix_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/murphp/osirixplugins/Opyrix    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.5 -g -Wno-sign-conversion -I/Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/Opyrix.hmap -I/Users/murphp/osirixplugins/Opyrix/Build/Products/Development/include -I/Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/DerivedSources/i386 -I/Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/murphp/osirixplugins/Opyrix/Build/Products/Development -F/Users/murphp/osirixplugins/Opyrix --serialize-diagnostics /Users/murphp/osirixplugins/Opyrix/Build/Intermediates/PrecompiledHeaders/Opyrix_Prefix-dzoswfjzoayerfayycolewosmnwx/Opyrix_Prefix.pch.dia -c /Users/murphp/osirixplugins/Opyrix/Opyrix_Prefix.pch -o /Users/murphp/osirixplugins/Opyrix/Build/Intermediates/PrecompiledHeaders/Opyrix_Prefix-dzoswfjzoayerfayycolewosmnwx/Opyrix_Prefix.pch.pth -MMD -MT dependencies -MF /Users/murphp/osirixplugins/Opyrix/Build/Intermediates/PrecompiledHeaders/Opyrix_Prefix-dzoswfjzoayerfayycolewosmnwx/Opyrix_Prefix.pch.d36"CA9A29EA-3DE8-4BBB-BBB3-B14E39E29A51-
+
+CTouch /Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin
+s394064486.534264
+e394064486.541449
+r1
+xTouch
+x/Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Touch /Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin89d08866f27cb741^31b49266f27cb741^---0#0#0#--199"Touch Build/Products/Development/Opyrix.osirixplugin    cd /Users/murphp/osirixplugins/Opyrix    /usr/bin/touch -c /Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin36"487765DB-2F17-44F0-80F7-C219B11D4912-
+
