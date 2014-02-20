@@ -5,7 +5,7 @@
 #
 
 #!/usr/bin/python
-#
+##/opt/local/bin/python2.7
 # Embedded Python scripting in OsiriX
 #
 # (c) Paul Murphy, 2013
@@ -226,6 +226,26 @@ class OpyrixImage:
         if self.dcmPix == None:
             self.loadDCMPix()
         return self.script.window.getROIValues_roi_(self.dcmPix,opyrixROI.roi)
+
+    def compute8bitRepresentation(self):
+        if self.dcmPix == None:
+            self.loadDCMPix()
+        return self.dcmPix.compute8bitRepresentation()
+
+    def getWidth(self):
+        if self.dcmPix == None:
+            self.loadDCMPix()
+        return self.dcmPix.pwidth()
+
+    def getHeight(self):
+        if self.dcmPix == None:
+            self.loadDCMPix()
+        return self.dcmPix.pheight()
+
+    def getPixelValue(self,x,y):
+        if self.dcmPix == None:
+            self.loadDCMPix()
+        return self.dcmPix.getPixelValueX_Y_(x,y)
 
 #class OpyrixSlices:
 #    def __init__(self,dicomSeries,dicomStudy,script):

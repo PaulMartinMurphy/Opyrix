@@ -8,14 +8,14 @@ cCpResource OpyrixScript.py Build/Products/Development/Opyrix.osirixplugin/Conte
 cCopyStringsFile /Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
 cCpResource setup.py Build/Products/Development/Opyrix.osirixplugin/Contents/Resources/setup.py
 cCompileXIB /Users/murphp/osirixplugins/Opyrix/OpyrixWindow.xib
-cProcessPCH++ /Users/murphp/osirixplugins/Opyrix/Build/Intermediates/PrecompiledHeaders/Opyrix_Prefix-easjtddiulhtypcdvjdqfqrlhyjb/Opyrix_Prefix.pch.pth Opyrix_Prefix.pch normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
-cProcessPCH++ /Users/murphp/osirixplugins/Opyrix/Build/Intermediates/PrecompiledHeaders/Opyrix_Prefix-dltpsezswnvxswfytvcwtetgrbxz/Opyrix_Prefix.pch.pth Opyrix_Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
-cProcessPCH /Users/murphp/osirixplugins/Opyrix/Build/Intermediates/PrecompiledHeaders/Opyrix_Prefix-fjqghhluekaxbzcvephucanyygwm/Opyrix_Prefix.pch.pth Opyrix_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cProcessPCH /Users/murphp/osirixplugins/Opyrix/Build/Intermediates/PrecompiledHeaders/Opyrix_Prefix-dxujdcogfgiwtiaiyjaeqlxjqmme/Opyrix_Prefix.pch.pth Opyrix_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/i386/OpyrixWindow.o /Users/murphp/osirixplugins/Opyrix/OpyrixWindow.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/x86_64/OpyrixWindow.o /Users/murphp/osirixplugins/Opyrix/OpyrixWindow.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/i386/OpyrixFilter.o /Users/murphp/osirixplugins/Opyrix/OpyrixFilter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/murphp/osirixplugins/Opyrix/Build/Intermediates/PrecompiledHeaders/Opyrix_Prefix-fjqghhluekaxbzcvephucanyygwm/Opyrix_Prefix.pch.pth Opyrix_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH++ /Users/murphp/osirixplugins/Opyrix/Build/Intermediates/PrecompiledHeaders/Opyrix_Prefix-dltpsezswnvxswfytvcwtetgrbxz/Opyrix_Prefix.pch.pth Opyrix_Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH++ /Users/murphp/osirixplugins/Opyrix/Build/Intermediates/PrecompiledHeaders/Opyrix_Prefix-easjtddiulhtypcdvjdqfqrlhyjb/Opyrix_Prefix.pch.pth Opyrix_Prefix.pch normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/x86_64/OpyrixFilter.o /Users/murphp/osirixplugins/Opyrix/OpyrixFilter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/i386/OpyrixFilter.o /Users/murphp/osirixplugins/Opyrix/OpyrixFilter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/x86_64/OpyrixWindow.o /Users/murphp/osirixplugins/Opyrix/OpyrixWindow.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/i386/OpyrixWindow.o /Users/murphp/osirixplugins/Opyrix/OpyrixWindow.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
 cLd /Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/x86_64/Opyrix normal x86_64
 cLd /Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/i386/Opyrix normal i386
 cCreateUniversalBinary /Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin/Contents/MacOS/Opyrix normal "i386 x86_64"
@@ -57,7 +57,7 @@ t1372458387
 s205273
 
 N/Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/i386/Opyrix
-t1384834825
+t1385002938
 s50552
 
 N/Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/i386/Opyrix.LinkFileList
@@ -74,15 +74,15 @@ t2
 s0
 
 N/Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/i386/OpyrixWindow.o
-t1384834825
-s239428
+t1385002938
+s239484
 
 N/Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/i386/OpyrixWindowController.o
 t2
 s0
 
 N/Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/x86_64/Opyrix
-t1384834825
+t1385002938
 s69272
 
 N/Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/x86_64/Opyrix.LinkFileList
@@ -99,8 +99,8 @@ t2
 s0
 
 N/Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/x86_64/OpyrixWindow.o
-t1384834825
-s256300
+t1385002938
+s256340
 
 N/Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/x86_64/OpyrixWindowController.o
 t2
@@ -139,7 +139,7 @@ t2
 s0
 
 N/Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin
-t1384834825
+t1392916956
 s102
 
 N/Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin/Contents/Info.plist
@@ -147,7 +147,7 @@ t1377831424
 s1101
 
 N/Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin/Contents/MacOS/Opyrix
-t1384834825
+t1385002938
 s126616
 
 N/Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin/Contents/Resources/Application.nib
@@ -159,11 +159,11 @@ t1372371684
 s552
 
 N/Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin/Contents/Resources/OpyrixScript.py
-t1384820579
-s16788
+t1392916956
+s17346
 
 N/Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin/Contents/Resources/OpyrixWindow.nib
-t1377831424
+t1392506128
 s12777
 
 N/Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin/Contents/Resources/OpyrixWindow0.nib
@@ -216,9 +216,9 @@ t1372375901
 s143
 
 N/Users/murphp/osirixplugins/Opyrix/OpyrixScript.py
-c00000000528AAF5F0000000000004194
-t1384820575
-s16788
+c0000000053063A4300000000000043D6
+t1392917059
+s17366
 
 N/Users/murphp/osirixplugins/Opyrix/OpyrixWindow.h
 c00000000528AA68900000000000009EA
@@ -236,9 +236,9 @@ t1385002933
 s36634
 
 N/Users/murphp/osirixplugins/Opyrix/OpyrixWindow.xib
-c00000000522009FD0000000000010D06
-t1377831421
-s68870
+c0000000052FFF510000000000000FFDD
+t1392506128
+s65501
 
 N/Users/murphp/osirixplugins/Opyrix/OpyrixWindow0.xib
 c0000000051CE0DBA000000000000FBE1
@@ -1159,7 +1159,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesd34f6839af3db841^dee68139af3db841^---0#1#0#--18"Check dependencies36"634182B4-42A6-4546-B3BA-A674E7D02A5A-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesb1a626d071b6b841^6de426d071b6b841^---0#1#0#--18"Check dependencies36"2FC9C6D6-C9D8-46A7-90DE-807A1380E515-
 
 CCompileC Build/Intermediates/Opyrix.build/Development/Opyrix.build/Objects-normal/i386/OpyrixFilter.o /Users/murphp/osirixplugins/Opyrix/OpyrixFilter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s406512402.145924
@@ -1599,8 +1599,8 @@ CCompileXIB /Users/murphp/osirixplugins/Opyrix/Application.xib
 r0
 
 CCompileXIB /Users/murphp/osirixplugins/Opyrix/OpyrixWindow.xib
-s399524224.580133
-e399524224.700812
+s414198928.320176
+e414198928.844544
 r1
 xCompileXIB
 x/Users/murphp/osirixplugins/Opyrix/OpyrixWindow.xib
@@ -1609,7 +1609,7 @@ o/Users/murphp/osirixplugins/Opyrix/OpyrixWindow.xib:12: note: View is clipping 
 o/Users/murphp/osirixplugins/Opyrix/OpyrixWindow.xib:11: note: View is clipping its content [13]
 o/* com.apple.ibtool.document.warnings */
 o/Users/murphp/osirixplugins/Opyrix/OpyrixWindow.xib:5: warning: Content rectangle not entirely on screen with the menu bar (May not be completely visible for all screen resolutions and configurations) [9]
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compiling /Users/murphp/osirixplugins/Opyrix/OpyrixWindow.xib20b2948041d0b741^5a68b38041d0b741^-459"/* com.apple.ibtool.document.notices *//Users/murphp/osirixplugins/Opyrix/OpyrixWindow.xib:12: note: View is clipping its content/Users/murphp/osirixplugins/Opyrix/OpyrixWindow.xib:11: note: View is clipping its content/* com.apple.ibtool.document.warnings *//Users/murphp/osirixplugins/Opyrix/OpyrixWindow.xib:5: warning: Content rectangle not entirely on screen with the menu bar (May not be completely visible for all screen resolutions and configurations)3(21%IDEActivityLogMessage2@28"View is clipping its content-399524224#18446744073709551615#0#-0#-23%DVTTextDocumentLocation3@67"file://localhost/Users/murphp/osirixplugins/Opyrix/OpyrixWindow.xib0000000000000000^11#18446744073709551615#11#18446744073709551615#18446744073709551615#0#15"Clipped Content--2@28"View is clipping its content-399524224#18446744073709551615#0#-0#-3@67"file://localhost/Users/murphp/osirixplugins/Opyrix/OpyrixWindow.xib0000000000000000^10#18446744073709551615#10#18446744073709551615#18446744073709551615#0#15"Clipped Content--2@136"Content rectangle not entirely on screen with the menu bar (May not be completely visible for all screen resolutions and configurations)58"Content rectangle not entirely on screen with the menu bar399524224#18446744073709551615#0#-1#-3@67"file://localhost/Users/murphp/osirixplugins/Opyrix/OpyrixWindow.xib0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--0#0#0#-19%DVTDocumentLocation4@67"file://localhost/Users/murphp/osirixplugins/Opyrix/OpyrixWindow.xib0000000000000000^573"CompileXIB OpyrixWindow.xib    cd /Users/murphp/osirixplugins/Opyrix    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin/Contents/Resources/OpyrixWindow.nib /Users/murphp/osirixplugins/Opyrix/OpyrixWindow.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk36"592F596B-EDFC-4703-B425-0BD11676718F-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compiling /Users/murphp/osirixplugins/Opyrix/OpyrixWindow.xib034352902cb0b841^a034d8902cb0b841^-459"/* com.apple.ibtool.document.notices *//Users/murphp/osirixplugins/Opyrix/OpyrixWindow.xib:12: note: View is clipping its content/Users/murphp/osirixplugins/Opyrix/OpyrixWindow.xib:11: note: View is clipping its content/* com.apple.ibtool.document.warnings *//Users/murphp/osirixplugins/Opyrix/OpyrixWindow.xib:5: warning: Content rectangle not entirely on screen with the menu bar (May not be completely visible for all screen resolutions and configurations)3(21%IDEActivityLogMessage2@28"View is clipping its content-414198928#18446744073709551615#0#-0#-23%DVTTextDocumentLocation3@67"file://localhost/Users/murphp/osirixplugins/Opyrix/OpyrixWindow.xib0000000000000000^11#18446744073709551615#11#18446744073709551615#18446744073709551615#0#15"Clipped Content--2@28"View is clipping its content-414198928#18446744073709551615#0#-0#-3@67"file://localhost/Users/murphp/osirixplugins/Opyrix/OpyrixWindow.xib0000000000000000^10#18446744073709551615#10#18446744073709551615#18446744073709551615#0#15"Clipped Content--2@136"Content rectangle not entirely on screen with the menu bar (May not be completely visible for all screen resolutions and configurations)58"Content rectangle not entirely on screen with the menu bar414198928#18446744073709551615#0#-1#-3@67"file://localhost/Users/murphp/osirixplugins/Opyrix/OpyrixWindow.xib0000000000000000^4#18446744073709551615#4#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--0#0#0#-19%DVTDocumentLocation4@67"file://localhost/Users/murphp/osirixplugins/Opyrix/OpyrixWindow.xib0000000000000000^573"CompileXIB OpyrixWindow.xib    cd /Users/murphp/osirixplugins/Opyrix    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin/Contents/Resources/OpyrixWindow.nib /Users/murphp/osirixplugins/Opyrix/OpyrixWindow.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk36"7786BC9E-EDE0-46E8-B7C7-0B6D1FD2272E-
 
 CCompileXIB /Users/murphp/osirixplugins/Opyrix/OpyrixWindow0.xib
 r0
@@ -1627,13 +1627,13 @@ xEnglish.lproj/InfoPlist.strings
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy English.lproj/InfoPlist.strings90a1b364f27cb741^d942b464f27cb741^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Users/murphp/osirixplugins/Opyrix/English.lproj/InfoPlist.strings0000000000000000^429"CopyStringsFile Build/Products/Development/Opyrix.osirixplugin/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings    cd /Users/murphp/osirixplugins/Opyrix    builtin-copyStrings --validate --inputencoding utf-16 --outputencoding UTF-16 --outdir /Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin/Contents/Resources/English.lproj -- English.lproj/InfoPlist.strings36"8DC8D29B-4DD7-4965-8F7C-E21CEF47F06E-
 
 CCpResource OpyrixScript.py Build/Products/Development/Opyrix.osirixplugin/Contents/Resources/OpyrixScript.py
-s406513379.609501
-e406513379.611878
+s414609872.170572
+e414609872.172701
 r1
 xCpResource
 xOpyrixScript.py
 xBuild/Products/Development/Opyrix.osirixplugin/Contents/Resources/OpyrixScript.py
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Copy Build/Products/Development/Opyrix.osirixplugin/Contents/Resources/OpyrixScript.pyfc1b9ce3e63ab841^662f9fe3e63ab841^---0#0#0#-19%DVTDocumentLocation2@132"file://localhost/Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin/Contents/Resources/OpyrixScript.py0000000000000000^415"CpResource OpyrixScript.py Build/Products/Development/Opyrix.osirixplugin/Contents/Resources/OpyrixScript.py    cd /Users/murphp/osirixplugins/Opyrix    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/murphp/osirixplugins/Opyrix/OpyrixScript.py /Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin/Contents/Resources36"6D8E2F0E-CEC1-431A-8C69-3F9792356EAC-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Copy Build/Products/Development/Opyrix.osirixplugin/Contents/Resources/OpyrixScript.py3cbc2bd071b6b841^9d632cd071b6b841^---0#0#0#-19%DVTDocumentLocation2@132"file://localhost/Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin/Contents/Resources/OpyrixScript.py0000000000000000^415"CpResource OpyrixScript.py Build/Products/Development/Opyrix.osirixplugin/Contents/Resources/OpyrixScript.py    cd /Users/murphp/osirixplugins/Opyrix    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/murphp/osirixplugins/Opyrix/OpyrixScript.py /Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin/Contents/Resources36"468923CC-7F1F-40BE-87EB-2FF69884F296-
 
 CCpResource TestScript.py Build/Products/Development/Opyrix.osirixplugin/Contents/Resources/TestScript.py
 s397612963.730869
@@ -1828,10 +1828,10 @@ xcom.apple.compilers.llvm.clang.1_0.compiler
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Precompile Opyrix_Prefix.pch2252c3cc49b0b741^3606ddcd49b0b741^---0#0#0#-19%DVTDocumentLocation2@68"file://localhost/Users/murphp/osirixplugins/Opyrix/Opyrix_Prefix.pch0000000000000000^3509"ProcessPCH++ Build/Intermediates/PrecompiledHeaders/Opyrix_Prefix-easjtddiulhtypcdvjdqfqrlhyjb/Opyrix_Prefix.pch.pth Opyrix_Prefix.pch normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/murphp/osirixplugins/Opyrix    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++-header -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -fvisibility-inlines-hidden -Wno-sign-conversion -I/Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/Opyrix.hmap -I/Users/murphp/osirixplugins/Opyrix/Build/Products/Development/include -I/Users/murphp/src/dcmtk/include -I/Users/murphp/src/dcmtk/include/dcmtk -I/Users/murphp/src/dcmtk/include/dcmtk/config -I/Users/murphp/src/dcmtk/include/dcmtk/dcmdata -I/Users/murphp/src/dcmtk/include/dcmtk/dcmimage -I/Users/murphp/src/dcmtk/include/dcmtk/dcmimgle -I/Users/murphp/src/dcmtk/include/dcmtk/dcmjpeg -I/Users/murphp/src/dcmtk/include/dcmtk/dcmjpls -I/Users/murphp/src/dcmtk/include/dcmtk/dcmnet -I/Users/murphp/src/dcmtk/include/dcmtk/dcmpstat -I/Users/murphp/src/dcmtk/include/dcmtk/dcmqrdb -I/Users/murphp/src/dcmtk/include/dcmtk/dcmsign -I/Users/murphp/src/dcmtk/include/dcmtk/dcmsr -I/Users/murphp/src/dcmtk/include/dcmtk/dcmtls -I/Users/murphp/src/dcmtk/include/dcmtk/dcmwlm -I/Users/murphp/src/dcmtk/include/dcmtk/oflog -I/Users/murphp/src/dcmtk/include/dcmtk/ofstd -I/Users/murphp/src/dcmtk/include/dcmtk/dcmdata/libi2d -I/Users/murphp/src/dcmtk/include/dcmtk/oflog/config -I/Users/murphp/src/dcmtk/include/dcmtk/oflog/helpers -I/Users/murphp/src/dcmtk/include/dcmtk/oflog/spi -I/Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/DerivedSources/x86_64 -I/Users/murphp/osirixplugins/Opyrix/Build/Intermediates/Opyrix.build/Development/Opyrix.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/murphp/osirixplugins/Opyrix/Build/Products/Development -F/Users/murphp/osirixplugins/Opyrix --serialize-diagnostics /Users/murphp/osirixplugins/Opyrix/Build/Intermediates/PrecompiledHeaders/Opyrix_Prefix-easjtddiulhtypcdvjdqfqrlhyjb/Opyrix_Prefix.pch.dia -c /Users/murphp/osirixplugins/Opyrix/Opyrix_Prefix.pch -o /Users/murphp/osirixplugins/Opyrix/Build/Intermediates/PrecompiledHeaders/Opyrix_Prefix-easjtddiulhtypcdvjdqfqrlhyjb/Opyrix_Prefix.pch.pth -MMD -MT dependencies -MF /Users/murphp/osirixplugins/Opyrix/Build/Intermediates/PrecompiledHeaders/Opyrix_Prefix-easjtddiulhtypcdvjdqfqrlhyjb/Opyrix_Prefix.pch.d36"A6726F12-9B4C-45E1-B085-DA9C7BBE607F-
 
 CTouch /Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin
-s406695738.642452
-e406695738.648723
+s414609872.211067
+e414609872.216793
 r1
 xTouch
 x/Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Touch /Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin8484a43aaf3db841^4d13a63aaf3db841^---0#0#0#--199"Touch Build/Products/Development/Opyrix.osirixplugin    cd /Users/murphp/osirixplugins/Opyrix    /usr/bin/touch -c /Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin36"C69DE7B0-5319-4391-BAA4-A9365744A732-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Touch /Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin051436d071b6b841^848137d071b6b841^---0#0#0#--199"Touch Build/Products/Development/Opyrix.osirixplugin    cd /Users/murphp/osirixplugins/Opyrix    /usr/bin/touch -c /Users/murphp/osirixplugins/Opyrix/Build/Products/Development/Opyrix.osirixplugin36"1FEE49BF-4F06-400F-BD1A-679E1754C845-
 
